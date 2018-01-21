@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Aeon Nox: SiLVO
-# Addon id: skin.aeon.nox.silvo
-# Addon Provider: SiLVO
+# Addon Name: Aeon Nox: RoyalOS
+# Addon id: skin.aeon.nox.RoyalOS
+# Addon Provider: RoyalOS
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"

@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Aeon Nox: SiLVO
-# Addon id: skin.aeon.nox.silvo
-# Addon Provider: SiLVO
+# Addon Name: Aeon Nox: RoyalOS
+# Addon id: skin.aeon.nox.RoyalOS
+# Addon Provider: RoyalOS
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
@@ -1269,7 +1269,7 @@ msgid "New InfoPanel"
 msgstr ""
 
 msgctxt "#31312"
-msgid "SiLVO mod"
+msgid "RoyalOS mod"
 msgstr ""
 
 msgctxt "#31313"
@@ -1342,7 +1342,7 @@ msgid "Taking a Screenshot"
 msgstr ""
 
 msgctxt "#31330"
-msgid "This script is not available in the default Kodi repositiory. The Aeon Nox SiLVO repo is needed to use the click to install feature, without it this script must be installed manually."
+msgid "This script is not available in the default Kodi repositiory. The Aeon Nox RoyalOS repo is needed to use the click to install feature, without it this script must be installed manually."
 msgstr ""
 
 msgctxt "#31331"
@@ -1390,7 +1390,7 @@ msgid "NOT SUPPORTED"
 msgstr ""
 
 msgctxt "#31342"
-msgid "Display the status of some add-ons supported in Aeon Nox SiLVO. Select an add-on to install or open its settings if already installed."
+msgid "Display the status of some add-ons supported in Aeon Nox RoyalOS. Select an add-on to install or open its settings if already installed."
 msgstr ""
 
 msgctxt "#31343"
@@ -2294,7 +2294,7 @@ msgid "Use this setting to override the location of the Trailers button when usi
 msgstr ""
 
 msgctxt "#31855"
-msgid "Enable this setting to replace the Default info with online info provided by the ExtendedInfo script. You can use the Aeon Nox SiLVO version or the Defaults provided by the script if you enable the option in the settings for ExtendedInfo."
+msgid "Enable this setting to replace the Default info with online info provided by the ExtendedInfo script. You can use the Aeon Nox RoyalOS version or the Defaults provided by the script if you enable the option in the settings for ExtendedInfo."
 msgstr ""
 
 msgctxt "#31856"

@@ -79,8 +79,8 @@
 		<platform>all</platform>
 		<license>CC BY-NC-SA 4.0</license>
 		<forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
-		<website>https://github.com/mikeRoyalOS164/Aeon-Nox-RoyalOS</website>
-		<source>https://github.com/mikeRoyalOS164/Aeon-Nox-RoyalOS</source>
+		<website>https://github.com/kylesheila/Aeon-Nox-Royal</website>
+		<source>https://github.com/kylesheila/Aeon-Nox-Royal</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
